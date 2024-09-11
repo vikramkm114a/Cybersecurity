@@ -120,7 +120,7 @@ Does Botium Toys currenly have this control in place?
 
 | Yes / No | Control | Explanation |
 | :-------        |    :---:   | :---     |
-| No | Least Privilige | Preventative; Access controls pertaining to least privilege have not been implemented. This has to be changed to reduce the risk of breach. |
+| No | Least Privilege | Preventative; Access controls pertaining to least privilege have not been implemented. This has to be changed to reduce the risk of breach. |
 | No | Disaster Recovery Plans | Corrective; At the moment, there is no plan for handling disaster. Implementing this ensures the business continuity. |
 | ? | Password policies | Preventative; A password policy exists, yet the requirements don't meet security standards and put the identity management access at risk. |
 | No | Separation of duties | Preventative; Access controls pertaining to separation of duties have not been implemented. |
@@ -176,4 +176,4 @@ After researching Botium Toys's security posture, the analysts agreed that the s
 4. Encryption
 5. Password management system
 
-To address gaps in compliance, Botium needs to implement and establish the policies that can address the following above. Botium also needs to update its assets so the additional control can be identified as soon as possible to improve their security practice. 
+To address gaps in compliance, Botium needs to implement and establish the policies that can address the issues listed above. Botium also needs to update its assets so the additional control can be identified as soon as possible to improve their security practice. 
