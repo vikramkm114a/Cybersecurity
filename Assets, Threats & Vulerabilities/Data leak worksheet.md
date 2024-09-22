@@ -28,3 +28,28 @@ their company's social media page assuming that it was the promotional materials
 | Review | NIST SP 800-53: AC-6 addresses how an organization can protect their data privacy by implementing least privilege. It also suggests control enhancements to improve the effectiveness of least privilege. |
 | Recommendation(s) | ● Restrict access to sensitive resources based on user role. <br> ● Regularly audit user privileges. |
 | Justification | Data leaks can be prevented if shared links to internal files are restricted to employees only. Also, requiring managers and security teams to regularly audit access to team files would help limit the exposure of sensitive information. |
+
+## Security plan snapshot
+The NIST Cybersecurity Framework (CSF) uses a hierarchical, tree-like structure to organize
+information. From left to right, it describes a broad security function, then becomes more specific as it
+branches out to a category, subcategory, and individual security controls.
+
+| Function | Category | Subcategory | Reference(s) |
+|---|---|---|---|
+| Protect | PR.DS: Data security | PR.DS-5: Protections against data leaks. | NIST SP 800-53: AC-6 |
+
+In this example, the implemented controls that are used by the manufacturer to protect against data
+leaks are defined in NIST SP 800-53—a set of guidelines for securing the privacy of information
+systems.
+
+**Note**: References are commonly hyperlinked to the guidelines or regulations they relate to. This makes
+it easy to learn more about how a particular control should be implemented. It's common to find
+multiple links to different sources in the references columns.
+
+## NIST SP 800-53: AC-6
+NIST developed SP 800-53 to provide businesses with a customizable information privacy plan. It's a
+comprehensive resource that describes a wide range of control categories. Each control provides a
+few key pieces of information:
+* Control: A definition of the security control.
+* Discussion: A description of how the control should be implemented.
+* Control enhancements: A list of suggestions to improve the effectiveness of the control.
