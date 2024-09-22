@@ -21,8 +21,8 @@ Then, you’ll list important characteristics of each device such as its owner, 
 ### Home Asset Inventory
 | Asset | Network Access | Owner | Location | Notes | Sensitivity |
 | --- | --- | :---: | :---: | :---: | :---: |
-| Laptop | Occasional | Homeowner | On and Off-premises | Contains private information, like photos. | Limited to specific users |
-| Gaming Console | Occasional | Homeowner | On-premises | 6 | Users on-premises |
-| Network Router | Continuous | Internet service provider (ISP) | On-premises | Has a 2.4 GHz and 5 GHz connection. All devices on the home network connect to the 5 GHz frequency. |
-| Smartphone | Occasional | Homeowner | On and Off-premises | 3 | 
-| Guest Smartphone | Occasional | Friend | On and Off-premises | Connects to my home network. |
+| Laptop | Occasional | Homeowner | On and Off-premises | Contains private information, like photos. | Restricted |
+| Gaming Console | Occasional | Homeowner | On-premises | Connects to my home network. | Users on-premises |
+| Network Router | Continuous | Internet service provider (ISP) | On-premises | Has a 2.4 GHz and 5 GHz connection. All devices on the home network connect to the 5 GHz frequency. | Confidential |
+| Smartphone | Occasional | Homeowner | On and Off-premises | Connects to my home network. | Restricted |
+| Guest Smartphone | Occasional | Friend | On and Off-premises | Connects to my home network. | Internal-only |
