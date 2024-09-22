@@ -54,8 +54,8 @@ few key pieces of information:
 * Discussion: A description of how the control should be implemented.
 * Control enhancements: A list of suggestions to improve the effectiveness of the control.
 
-| AC-6 | Least Privilege |
+|  | AC-6: Least Privilege |
 |---|---|
-| AC-6 | Control: Only the minimal access and authorization required to complete a task or function should be provided to users. |
-| AC-6 | Discussion: Processes, user accounts, and roles should be enforced as necessary to achieve least privilege. The intention is to prevent a user from operating at privilege levels higher than what is necessary to accomplish business objectives. |
-| AC-6 | Control enhancements: <br> ● Restrict access to sensitive resources based on user role. <br> ● Automatically revoke access to information after a period of time. <br> ● Keep activity logs of provisioned user accounts. <br> ● Regularly audit user privileges. |
+| Control | Only the minimal access and authorization required to complete a task or function should be provided to users. |
+| Discussion | Processes, user accounts, and roles should be enforced as necessary to achieve least privilege. The intention is to prevent a user from operating at privilege levels higher than what is necessary to accomplish business objectives. |
+| Control enhancements | ● Restrict access to sensitive resources based on user role. <br> ● Automatically revoke access to information after a period of time. <br> ● Keep activity logs of provisioned user accounts. <br> ● Regularly audit user privileges. |
