@@ -28,16 +28,18 @@ You are a security analyst at a financial services company. You receive an alert
 * In the search bar, type `signin.office365x24.com` and click Search. Under `DOMAINS`, click signin.office365x24.com to complete the search. Below are the screenshots of the legacy view, VT, and IP address `40.100.174.34`.
     
   * Image 1 Legacy View
-    
-  ![chrome_QnyIg5thvH](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/c7f605fc-8796-4d97-948b-e207cbd06f49)
+![Chronicle1](https://github.com/user-attachments/assets/c0338f66-c04a-4b15-ac39-0b7062a54be3)
+
+  
 
   * Image 2 VT 
-  
-  ![chrome_u1p0eD2S4u](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/45c34c3f-21e0-4c19-aa07-1f9569078237)
+  ![Chronicle2](https://github.com/user-attachments/assets/9c0dcf1f-cadd-4310-a3a1-df277d39935a)
+
 
   * Image 3 IP address `40.100.174.34`
   
-  ![chrome_WS7N0VCXT1](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/93256920-bd8b-4246-b3d6-a876f6df6af9)
+![Chronicle3](https://github.com/user-attachments/assets/3796c281-7bbf-450b-8551-11e2d591279f)
+
 
   
 * Evaluate the search result (Legacy view).
