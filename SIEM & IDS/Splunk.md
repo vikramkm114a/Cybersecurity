@@ -58,7 +58,8 @@ vendor_sales - Information about Buttercup Games' retail sales.
 
 8. Finally, let's Search for a failed login for root. On the search bar, enter `index=main host=mailsv fail* root`. This tells Splunik to expand the search term to find other terms that contain the word `fail` such as `failure`, `failed`, etc. In addition, the keyword `root` searches for any event that contains the term `root`.  
    
-![chrome_APuwBtfWI8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/969d115f-3eca-42ac-a0d4-c774cd5e01ea)
+![Splunk7](https://github.com/user-attachments/assets/a6ac3250-c716-4bae-9f45-68b7008b3c55)
+
 
 9. Investigation:
 * There are over 100,000 events that are contained in the main index across `all time`.
