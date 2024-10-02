@@ -27,8 +27,9 @@ vendor_sales - Information about Buttercup Games' retail sales.
 2. Add Data on the Splunk bar. 
 3. Upload data into Splunk.
 4. Select file and upload `tutorialdata.zip`. Please visit this [link](https://drive.google.com/file/d/1nDz_DZB4ADbD4tvaDa54_l1FoT_jtVy4/view) for further information. 
-   
-![chrome_aaI0DiRQJZ](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/ad3f9947-0aac-4bae-9b37-14dd1776da82)
+   ![Splunk1](https://github.com/user-attachments/assets/fdeb7478-42b8-45ee-9924-5235335136c6)
+
+
 
 5. Navigate to Search and Reporting tab, type on the search bar `index=main` to view repository for data and select `All time` to view all the events across all time. 
 > Try to adjust the time using the time range dropdown or time modifiers. A shorter range returns results faster and uses fewer resources. In this scenario, I chose to display `all time`. 
