@@ -43,7 +43,8 @@ vendor_sales - Information about Buttercup Games' retail sales.
 
 
 * Source: Indicates the original location of the event data within a specific device or system.
-![chrome_XzxWQfT9bW](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/6ba7447a-edd9-45ba-85a4-9dde1115ef7d)
+![Splunk4](https://github.com/user-attachments/assets/21ebd83b-be25-4d54-9246-caa2366634e1)
+
 
 * Sourcetype: Defines the format and structure of the event data. It tells Splunk how to parse and interpret the information.
 ![chrome_6BZLttVQGS](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/260a0c93-65eb-4930-b8dc-08c879f3feae)
