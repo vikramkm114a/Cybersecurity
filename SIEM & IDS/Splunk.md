@@ -34,7 +34,8 @@ vendor_sales - Information about Buttercup Games' retail sales.
 5. Navigate to Search and Reporting tab, type on the search bar `index=main` to view repository for data and select `All time` to view all the events across all time. 
 > Try to adjust the time using the time range dropdown or time modifiers. A shorter range returns results faster and uses fewer resources. In this scenario, I chose to display `all time`. 
    
-![chrome_duHVJgvbZQ](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/e753718a-f9d4-46a2-aca7-d33f9ddd6f23)
+![Splunk2](https://github.com/user-attachments/assets/dd5b5e1e-f7b7-4d1f-8d28-7df2dd03f030)
+
 
 6. Let's have a look at three common components: `host`, `source`, `sourcetype`.
 * Host: Specifies the device or system that generated the event.
