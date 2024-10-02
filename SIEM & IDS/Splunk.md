@@ -39,7 +39,8 @@ vendor_sales - Information about Buttercup Games' retail sales.
 
 6. Let's have a look at three common components: `host`, `source`, `sourcetype`.
 * Host: Specifies the device or system that generated the event.
-![chrome_Q6YdwxIlcN](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/c9c6196a-cc3c-453d-94a4-66eee93ee742)
+![Splunk3](https://github.com/user-attachments/assets/0018fc7b-85dd-4b3e-86ef-637e0f0b03f6)
+
 
 * Source: Indicates the original location of the event data within a specific device or system.
 ![chrome_XzxWQfT9bW](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/6ba7447a-edd9-45ba-85a4-9dde1115ef7d)
