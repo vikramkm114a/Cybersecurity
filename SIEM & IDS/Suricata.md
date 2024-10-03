@@ -79,7 +79,8 @@ $HOME_NET is definatd as the `172.21.224/0/20` subnet.
   * The `-S custom.rules` option instructs Suricata to use the rules defined in the custom.rules file.
   * The `-k none` option instructs Suricata to disable all checksum checks.
 
-![chrome_T7TLuD7CeL](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/2372e192-2be1-48fd-9e1d-e4b7b10c34d2)
+![Suricata4](https://github.com/user-attachments/assets/2a82b810-98fe-40d8-9008-a9d13700f2ad)
+
 
 * List the files in the `/var/log/suricata` folder again: `ls -l /var/log/suricata`.
 
