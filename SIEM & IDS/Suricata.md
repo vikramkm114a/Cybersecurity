@@ -71,7 +71,8 @@ $HOME_NET is definatd as the `172.21.224/0/20` subnet.
 2. Trigger a custom rule in Suricata.
 * List the files in the `/var/log/suricata` folder: `ls -l /var/log/suricata`. Up this task, there will be no files to be found. 
 
-![chrome_cZ26BKgmAo](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/0ad29868-693c-4d87-afd8-5a4deffcd37d)
+![Suricata3](https://github.com/user-attachments/assets/a8962124-974d-4458-b8c7-535770253363)
+
 
 * We run Suricata using the `custom.rules` and `sample.pcap`: `sudo suricata -r sample.pcap -S custom.rules -k none`.
   * The `-r sample.pcap` option specifies an input file to mimic network traffic. In this case, the sample.pcap file.
