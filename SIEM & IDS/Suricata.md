@@ -14,7 +14,8 @@ Suricata uses signatures analysis, which is a detection method used to find even
 2. Header: The header includes network traffic information like source and destination IP addresses, source and destination ports, protocol, and traffic direction.
 3. Rule options: The rule options provide you with different options to customize signatures.
 
-![chrome_KkKCDwVmK9](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/255a7ff5-5db0-48f7-934a-a816885e5b45)
+![Suricata1](https://github.com/user-attachments/assets/1378ab9b-0803-4771-a098-9ed40a20ef24)
+
 
 ## Examine alerts, logs and rules with Suricata 
 
