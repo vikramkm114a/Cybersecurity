@@ -84,7 +84,8 @@ $HOME_NET is definatd as the `172.21.224/0/20` subnet.
 
 * List the files in the `/var/log/suricata` folder again: `ls -l /var/log/suricata`.
 
-![chrome_LDJhBLOBkx](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/62961a88-2616-4f53-8adc-1d3d4d51adf8)
+![Suricata5](https://github.com/user-attachments/assets/90bea4a4-766d-4a8b-b65b-84ef06726955)
+
 
 * Display `fast.log`: `cat /var/log/suricata/fast.log`
 
