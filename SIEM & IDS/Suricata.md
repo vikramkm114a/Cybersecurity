@@ -47,7 +47,7 @@ When you create a new rule, you'll need to test the rule to confirm whether or n
 
 1. Examine a custom rule in Suricata.
 
-![chrome_wQ9p61CyjX](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/2c776e7c-9af7-415e-bdfd-9c859b3c6a05)
+![Suricata2](https://github.com/user-attachments/assets/0e548956-f53a-48a8-baec-86e394e6bfe5)
 
 ```
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"GET on wire"; flow:established,to_server; content:"GET"; http_method; sid:12345; rev:3;)
