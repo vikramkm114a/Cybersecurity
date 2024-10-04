@@ -53,7 +53,8 @@ An overview of the key property columns listed for each packet:
 
 * The protocol destination port is TCP when Etherenet address was `42:01:ac:15:e0:02`. Source address is `172.21.224.2` and the destination address is `35.235.244.34`. 
 
-![chrome_PAHlQSZJOk](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/263e55d9-e6e7-4204-b4c3-1215a69c98a1)
+![Wireshark7](https://github.com/user-attachments/assets/07ad9f65-b7f7-49fc-a2b5-c649350e39b0)
+
 
 3. Analyze the data packet to identify the type of information sent and received by the systems that connect to each other when the network data is captured.
 * On the title bar, type `tcp.port == 80` to filter for traffic associated with a specific port number. `tcp.port == 80` means only the tcp port is 80 will be shown. 
