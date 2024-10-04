@@ -26,7 +26,8 @@ An overview of the key property columns listed for each packet:
 
 ![Wireshark1](https://github.com/user-attachments/assets/d2472f5b-0742-40ec-a177-ec8a10a10f78)
 
-![chrome_poRy9LUK7I](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/d2e2507c-ba58-4c4d-a6b5-43e511068100)
+![Wireshark2](https://github.com/user-attachments/assets/9ea4b964-1c87-4657-8104-7f159223f77e)
+
 
 * On the title bar, type `ip.src == 142.250.1.139` to filter for traffic associated with a specific IP address. `src` means it is where the packet comes from.
   
