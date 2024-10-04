@@ -24,7 +24,7 @@ An overview of the key property columns listed for each packet:
 1. Identify the source and destination IP addresses involved in this web browsing session.
 * On the title bar, type `ip.addr == 142.250.1.139` to filter for traffic associated with a specific IP address. Select the first packet that contains `TCP` on the info field. `addr` means either the source or the destination IP. 
 
-![chrome_clrxVrSKGe](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/0027d233-ae17-49a6-979c-1b8f3f003637)
+![Wireshark1](https://github.com/user-attachments/assets/d2472f5b-0742-40ec-a177-ec8a10a10f78)
 
 ![chrome_poRy9LUK7I](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/d2e2507c-ba58-4c4d-a6b5-43e511068100)
 
