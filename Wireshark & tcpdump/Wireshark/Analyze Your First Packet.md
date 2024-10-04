@@ -48,7 +48,8 @@ An overview of the key property columns listed for each packet:
 2. Examine the protocols that are used when the user makes the connection to the website.
 * The TCP destination port of this TCP packet is 80 when `ip.addr == 142.250.1.139` which contains the initial web request to an HTPP website that will typically be listening on TCP port 80.
 
-![chrome_v0w4jPKpnG](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/5ce9594c-e9c3-49a2-9d93-cd0da4cb1e3b)
+![Wireshark6](https://github.com/user-attachments/assets/a26b99d9-f152-41c5-8e79-b0e9bf859346)
+
 
 * The protocol destination port is TCP when Etherenet address was `42:01:ac:15:e0:02`. Source address is `172.21.224.2` and the destination address is `35.235.244.34`. 
 
