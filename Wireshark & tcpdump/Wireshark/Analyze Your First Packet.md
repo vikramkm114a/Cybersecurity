@@ -59,7 +59,8 @@ An overview of the key property columns listed for each packet:
 3. Analyze the data packet to identify the type of information sent and received by the systems that connect to each other when the network data is captured.
 * On the title bar, type `tcp.port == 80` to filter for traffic associated with a specific port number. `tcp.port == 80` means only the tcp port is 80 will be shown. 
   
-![chrome_MNHnvAhm6o](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/28081462-b634-4838-a307-b9574e7f3234)
+![Wireshark8](https://github.com/user-attachments/assets/5d3f0b1b-7154-4094-9a24-5e1afa131760)
+
 
 * When the filter `tcp.port == 80` sets in play, the time to live is 64.
 * `Time to Live`: A field in the Internet Protocol (IP) header that indicates the maximum amount of time an IP packet is allowed to exist in the network before it is discarded if it has not reached its destination. TTL is used to prevent packets from circulating indefinitely in the network, which could happen in the case of routing loops. It can be used as a basic security measure to limit how far packets can propagate through the network.
