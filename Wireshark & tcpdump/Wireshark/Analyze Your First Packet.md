@@ -42,7 +42,8 @@ An overview of the key property columns listed for each packet:
 
 * On the title bar, type `eth.addr == 42:01:ac:15:e0:02` to filter for traffic associated with a specific Ethernet MAC address. `addr` means either the source or the destination IP. 
 
-![chrome_FNyXuNAoQH](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/4385847b-0f9f-4fe5-99af-2dc3792f64f1)
+![Wireshark5](https://github.com/user-attachments/assets/0e9beb68-1d5a-4df3-9927-8e1fe9ac6d46)
+
 
 2. Examine the protocols that are used when the user makes the connection to the website.
 * The TCP destination port of this TCP packet is 80 when `ip.addr == 142.250.1.139` which contains the initial web request to an HTPP website that will typically be listening on TCP port 80.
