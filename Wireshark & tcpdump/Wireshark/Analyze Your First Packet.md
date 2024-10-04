@@ -65,7 +65,8 @@ An overview of the key property columns listed for each packet:
 * When the filter `tcp.port == 80` sets in play, the time to live is 64.
 * `Time to Live`: A field in the Internet Protocol (IP) header that indicates the maximum amount of time an IP packet is allowed to exist in the network before it is discarded if it has not reached its destination. TTL is used to prevent packets from circulating indefinitely in the network, which could happen in the case of routing loops. It can be used as a basic security measure to limit how far packets can propagate through the network.
   
-![chrome_iI9QT2BqWs](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/1fe9ba32-926b-42f3-a39e-49da54240058)
+![Wireshark9](https://github.com/user-attachments/assets/42f2c934-4c3d-48e4-b593-e8415f752e41)
+
 
 
 * When the filter `tcp.port == 80` sets in play, the Frame Number is 37 and Frame Length is 54 bytes.
