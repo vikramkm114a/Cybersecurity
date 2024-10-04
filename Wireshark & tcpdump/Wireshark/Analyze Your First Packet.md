@@ -31,7 +31,8 @@ An overview of the key property columns listed for each packet:
 
 * On the title bar, type `ip.src == 142.250.1.139` to filter for traffic associated with a specific IP address. `src` means it is where the packet comes from.
   
-![chrome_rKsf4FgKQK](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/48b3d84d-e5b1-4dc9-a6d8-363546b697bc)
+![Wireshark3](https://github.com/user-attachments/assets/a9cc6e75-f6db-4f17-bf8f-ad5f2a8544e2)
+
 
   
 * On the title bar, type `ip.dst == 142.250.1.139` to filter for traffic associated with a specific IP address. `dst` means it is where the packet goes to.
