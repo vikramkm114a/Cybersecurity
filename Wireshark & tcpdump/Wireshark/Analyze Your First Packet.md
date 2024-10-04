@@ -36,8 +36,9 @@ An overview of the key property columns listed for each packet:
 
   
 * On the title bar, type `ip.dst == 142.250.1.139` to filter for traffic associated with a specific IP address. `dst` means it is where the packet goes to.
-  
-![chrome_0BcQ5U6PID](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/assets/135963482/19394509-d60b-48eb-9d41-176d5bffbc00)
+
+![Wireshark4](https://github.com/user-attachments/assets/b4566968-aad6-4916-86c4-c67f3ec8c58a)
+
 
 * On the title bar, type `eth.addr == 42:01:ac:15:e0:02` to filter for traffic associated with a specific Ethernet MAC address. `addr` means either the source or the destination IP. 
 
