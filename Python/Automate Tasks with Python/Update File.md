@@ -24,7 +24,7 @@ with open(import_file, "r") as file:
 print(ip_addresses)
 ```
 
-For the first part of the algorithm, I imported the `allow_list.txt` by using `import` module. Then, I used `with open` statement to open the file. The `open()` function has two parameters: `import_file` and `r`. The first identifies the file to import, the second indicattes what I would like to do with the file (read the file). Finally, I assigned the string output of this method to the variable `ip_addresses` and `print` it. For your information, there are 17 IP addresses in `allow_list.txt`. 
+For the first part of the algorithm, I imported the `allow_list.txt` by using the `import` module. Then, I used the `with open` statement to open the file. The `open()` function has two parameters: `import_file` and `r`. The first identifies the file to import, and the second indicates what I would like to do with the file (read the file). Finally, I assigned the string output of this method to the variable `ip_addresses` and `print` it. For your information, there are 17 IP addresses in `allow_list.txt`. 
 
 The Result: 
 
