@@ -25,4 +25,6 @@ In this activity, you’ll be putting your new Wireshark skills to the test by a
 2. Pings use ICMP packets, so that's what we filter for. Remember, Wireshark is case sensitive. Apply the following filter: icmp. Look under Source, which is where we can find the IP address of the host. Notice that there is one particular IP that was pinged twice.
 <img width="1440" alt="Screenshot 2025-04-21 at 7 01 03 PM" src="https://github.com/user-attachments/assets/6ec30555-16fb-4f98-a13c-feb2c08eb86b" />
 
-3. 
+3. Filter for dns && ip.dst == 192.168.1.7 and look at the bottom right corner of the application to see the number of packets on the list.
+<img width="1440" alt="Screenshot 2025-04-21 at 7 01 30 PM" src="https://github.com/user-attachments/assets/28fce60d-d580-407f-a513-1fdf403a326a" />
+
