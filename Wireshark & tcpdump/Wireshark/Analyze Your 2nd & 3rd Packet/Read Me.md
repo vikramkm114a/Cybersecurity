@@ -37,5 +37,7 @@ Another menu will pop-up. On menu tab, click on IPv4. Filter for 'Tx Bytes' (Tra
 1. Press Ctrl+F and search for the String "WebAdmin". Ensure the correct parameters are selected: Packet Details, String. Searching in the Info column, click on packet No.4123 and inspect the packet header. Under 'Line-based text data:' we will see the WebAdmin Password: sbt123.
 <img width="1440" alt="Screenshot 2025-04-21 at 7 14 22 PM" src="https://github.com/user-attachments/assets/87edc1f0-ece6-459e-9879-9cae7f1bd033" />
 
-2. 
+2. Filter for ftp. In the Info column you will notice a packet with 'pyftpdlib 1.5.5'. This is a library for creating FTP in python. The answer is 1.5.5
+<img width="1440" alt="Screenshot 2025-04-21 at 7 21 42 PM" src="https://github.com/user-attachments/assets/14c93823-1425-44cd-a740-fdca0e25a7c4" />
 
+3. 
