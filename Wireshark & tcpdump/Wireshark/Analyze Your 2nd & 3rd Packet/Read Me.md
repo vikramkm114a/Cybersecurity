@@ -1,4 +1,4 @@
-# Wireshark - Analyze your second & third packet with Wireshark
+# Analyze your second & third packet with Wireshark
 
 ## Scenario
 In this activity, you’ll be putting your new Wireshark skills to the test by analyzing two PCAPs, which increase in difficulty.
