@@ -40,4 +40,10 @@ Another menu will pop-up. On menu tab, click on IPv4. Filter for 'Tx Bytes' (Tra
 2. Filter for ftp. In the Info column you will notice a packet with 'pyftpdlib 1.5.5'. This is a library for creating FTP in python. The answer is 1.5.5
 <img width="1440" alt="Screenshot 2025-04-21 at 7 21 42 PM" src="https://github.com/user-attachments/assets/14c93823-1425-44cd-a740-fdca0e25a7c4" />
 
-3. 
+3. Filter for ip.dst == 192.168.56.103. Scroll down to the [ACK] reply. Packets with ports 50493 -> 8081 should be displayed in the Info column. Click on one of those packets, then look at the packet header. In the TCP header row, the Destination Port is 8081, which is the victim Windows host.
+<img width="1440" alt="Screenshot 2025-04-21 at 9 55 58 PM" src="https://github.com/user-attachments/assets/254fd868-14c8-4eff-b058-d58eb207e6fc" />
+
+4. Right-click on any packet, then click Follow > TCP Stream. Then navigate to the stream that shows the directory list of the Desktop. Locate 'Employee_Information_CONFIDENTIAL.txt'.
+<img width="1440" alt="Screenshot 2025-04-21 at 9 58 56 PM" src="https://github.com/user-attachments/assets/b0b4acba-0c3c-407f-b988-2789e38cc987" />
+
+5. Search for a file with a ".log" extension that was created at 4:51 AM. The answer is Logfile.log
