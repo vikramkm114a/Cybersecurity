@@ -21,3 +21,8 @@ In this activity, you’ll be putting your new Wireshark skills to the test by a
 #### PCAP 1
 1. Apply the following filter: tcp.port==3942 || udp.port==3942. Upon reviewing each of the packets on the list you will notice that they all use UDP.
 <img width="1440" alt="Screenshot 2025-04-21 at 7 00 13 PM" src="https://github.com/user-attachments/assets/de14151f-935b-488e-9202-5274f51dccf3" />
+
+2. Pings use ICMP packets, so that's what we filter for. Remember, Wireshark is case sensitive. Apply the following filter: icmp. Look under Source, which is where we can find the IP address of the host. Notice that there is one particular IP that was pinged twice.
+<img width="1440" alt="Screenshot 2025-04-21 at 7 01 03 PM" src="https://github.com/user-attachments/assets/6ec30555-16fb-4f98-a13c-feb2c08eb86b" />
+
+3. 
