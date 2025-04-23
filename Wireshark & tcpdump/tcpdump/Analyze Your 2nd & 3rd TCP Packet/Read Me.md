@@ -31,5 +31,9 @@ Answer: 20
 Answer: 80.0.3987.87
 <img width="1440" alt="Screenshot 2025-04-22 at 11 38 06 PM" src="https://github.com/user-attachments/assets/431b1f04-a5a9-43bb-aac2-c2b12ba664da" />
 
+4. Use the following command: tcpdump -r SBT-PCAP4.pcap 'ip[8]==38' | wc -l <br/>
+Answer: 710
+<img width="1440" alt="Screenshot 2025-04-22 at 11 52 47 PM" src="https://github.com/user-attachments/assets/b2bf6ee0-f131-4d40-9344-dee23e9d8b76" />
+
 #### PCAP 5
 1. 
